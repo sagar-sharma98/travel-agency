@@ -63,36 +63,36 @@ npm start
 ```
 travel-agency-website/
 ├── app/
-│   ├── layout.tsx              # Root layout with metadata
-│   ├── page.tsx                # Home page
+│   ├── layout.tsx
+│   ├── page.tsx
 │   ├── destinations/
-│   │   ├── page.tsx            # Destination listing page
+│   │   ├── page.tsx
 │   │   └── DestinationsHeader.tsx
 │   ├── enquiry/
-│   │   ├── layout.tsx          # Metadata for enquiry page
-│   │   └── page.tsx            # Enquiry form page
-│   └── globals.css             # Global styles
+│   │   ├── layout.tsx
+│   │   └── page.tsx
+│   └── globals.css
 ├── components/
-│   ├── ui/                     # Reusable UI components
+│   ├── ui/
 │   │   ├── Button.tsx
 │   │   ├── Card.tsx
 │   │   └── Input.tsx
-│   ├── layout/                 # Layout components
+│   ├── layout/
 │   │   ├── Header.tsx
 │   │   └── Footer.tsx
-│   ├── sections/               # Page sections
+│   ├── sections/
 │   │   ├── Hero.tsx
 │   │   ├── FeaturedDestinations.tsx
 │   │   ├── WhyChooseUs.tsx
 │   │   └── DestinationCard.tsx
-│   └── forms/                  # Form components
+│   └── forms/
 │       └── EnquiryForm.tsx
 ├── data/
-│   └── destinations.json       # Destination data
+│   └── destinations.json
 ├── lib/
-│   ├── utils.ts               # Utility functions
-│   └── types.ts               # TypeScript types
-└── public/                    # Static assets
+│   ├── utils.ts
+│   └── types.ts
+└── public/
 ```
 
 ## Approach & Design Decisions
