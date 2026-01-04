@@ -145,4 +145,4 @@ travel-agency-website/
 
 - Images are loaded from Unsplash (configured in `next.config.ts`)
 - All form validation is client-side
-- The project is ready for deployment to Vercel or any static hosting service
+- The project is ready for deployment to Vercel 
