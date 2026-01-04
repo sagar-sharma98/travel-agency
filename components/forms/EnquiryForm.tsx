@@ -70,9 +70,7 @@ export default function EnquiryForm({
         >
           <CheckCircle className="h-12 w-12 text-green-600" />
         </motion.div>
-        <h3 className="text-3xl font-bold text-gray-900 mb-4">
-          Thank You!
-        </h3>
+        <h3 className="text-3xl font-bold text-gray-900 mb-4">Thank You!</h3>
         <p className="text-lg text-gray-600 mb-6">
           Your enquiry has been submitted successfully. Our travel experts will
           get back to you within 24 hours.
@@ -109,7 +107,7 @@ export default function EnquiryForm({
           <Input
             label="Full Name"
             type="text"
-            placeholder="John Doe"
+            placeholder="Enter your name"
             {...register("name")}
             error={errors.name?.message}
             required
@@ -118,7 +116,7 @@ export default function EnquiryForm({
           <Input
             label="Email Address"
             type="email"
-            placeholder="john@example.com"
+            placeholder="youremail@domain.com"
             {...register("email")}
             error={errors.email?.message}
             required
@@ -129,7 +127,7 @@ export default function EnquiryForm({
           <Input
             label="Phone Number"
             type="tel"
-            placeholder="+91 123 456 7890"
+            placeholder="+91 123456890"
             {...register("phone")}
             error={errors.phone?.message}
             required
@@ -197,4 +195,3 @@ export default function EnquiryForm({
     </motion.div>
   );
 }
-
