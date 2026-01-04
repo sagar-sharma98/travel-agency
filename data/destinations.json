@@ -1,0 +1,113 @@
+[
+  {
+    "id": "goa",
+    "title": "Goa",
+    "description": "Experience the perfect blend of sun, sand, and sea in India's party capital. From pristine beaches to vibrant nightlife, Goa offers an unforgettable coastal escape.",
+    "image": "https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?w=800&h=600&fit=crop",
+    "location": "Goa, India",
+    "highlights": [
+      "Beaches",
+      "Nightlife",
+      "Water Sports",
+      "Portuguese Heritage"
+    ]
+  },
+  {
+    "id": "kerala",
+    "title": "Kerala",
+    "description": "Discover 'God's Own Country' with its serene backwaters, lush tea plantations, and rich cultural heritage. A paradise for nature lovers and peace seekers.",
+    "image": "https://images.unsplash.com/photo-1580619305218-8423a7ef79b4?w=800&h=600&fit=crop",
+    "location": "Kerala, India",
+    "highlights": ["Backwaters", "Tea Plantations", "Wildlife", "Ayurveda"]
+  },
+  {
+    "id": "rajasthan",
+    "title": "Rajasthan",
+    "description": "Step into the royal world of Rajasthan with magnificent palaces, desert safaris, and vibrant culture. Experience the grandeur of India's princely state.",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/33/fc/f9/rajasthan.jpg?w=1200&h=900&s=1",
+    "location": "Rajasthan, India",
+    "highlights": ["Palaces", "Desert Safari", "Camel Rides", "Folk Culture"]
+  },
+  {
+    "id": "himachal",
+    "title": "Himachal Pradesh",
+    "description": "Escape to the mountains with breathtaking views, adventure sports, and serene hill stations. Perfect for trekking, skiing, and spiritual retreats.",
+    "image": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=800&h=600&fit=crop",
+    "location": "Himachal Pradesh, India",
+    "highlights": ["Hill Stations", "Trekking", "Skiing", "Temples"]
+  },
+  {
+    "id": "uttarakhand",
+    "title": "Uttarakhand",
+    "description": "Explore the land of gods with sacred temples, pristine rivers, and majestic mountains. A spiritual and adventure destination rolled into one.",
+    "image": "https://images.unsplash.com/photo-1593693397690-362cb9666fc2?w=800&h=600&fit=crop",
+    "location": "Uttarakhand, India",
+    "highlights": ["Char Dham", "River Rafting", "Wildlife", "Pilgrimage"]
+  },
+  {
+    "id": "kashmir",
+    "title": "Kashmir",
+    "description": "Visit 'Paradise on Earth' with stunning valleys, pristine lakes, and snow-capped mountains. Experience the beauty that inspired poets for centuries.",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/4d/63/60/betaab-valley.jpg?w=2000&h=800&s=1",
+    "location": "Jammu & Kashmir, India",
+    "highlights": ["Dal Lake", "Gulmarg", "Pahalgam", "Srinagar"]
+  },
+  {
+    "id": "sikkim",
+    "title": "Sikkim",
+    "description": "Discover the hidden gem of Northeast India with monasteries, mountain passes, and diverse flora. A perfect blend of culture and nature.",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/1e/59/55/hanuman-tok.jpg?w=1200&h=800&s=1",
+    "location": "Sikkim, India",
+    "highlights": [
+      "Monasteries",
+      "Mountain Passes",
+      "Trekking",
+      "Buddhist Culture"
+    ]
+  },
+  {
+    "id": "ladakh",
+    "title": "Ladakh",
+    "description": "Journey to the 'Land of High Passes' with dramatic landscapes, ancient monasteries, and unique culture. An adventure of a lifetime awaits.",
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop",
+    "location": "Ladakh, India",
+    "highlights": [
+      "Pangong Lake",
+      "Monasteries",
+      "High Altitude",
+      "Adventure Sports"
+    ]
+  },
+  {
+    "id": "tamil-nadu",
+    "title": "Tamil Nadu",
+    "description": "Explore the rich Dravidian culture with magnificent temples, beautiful hill stations, and pristine beaches. A journey through history and tradition.",
+    "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?w=800&h=600&fit=crop",
+    "location": "Tamil Nadu, India",
+    "highlights": ["Temples", "Hill Stations", "Beaches", "Classical Dance"]
+  },
+  {
+    "id": "karnataka",
+    "title": "Karnataka",
+    "description": "Experience the perfect mix of heritage, nature, and modernity. From ancient ruins to coffee plantations, Karnataka has it all.",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/33/ea/d9/caption.jpg?w=1200&h=800&s=1",
+    "location": "Karnataka, India",
+    "highlights": ["Hampi", "Coffee Plantations", "Wildlife", "Beaches"]
+  },
+  {
+    "id": "madhya-pradesh",
+    "title": "Madhya Pradesh",
+    "description": "Discover the heart of India with ancient temples, wildlife sanctuaries, and architectural marvels. A treasure trove of history and nature.",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/1d/24/96/the-marvellous-orchha.jpg?w=1200&h=800&s=1",
+    "location": "Madhya Pradesh, India",
+    "highlights": ["Khajuraho", "Wildlife", "Temples", "Heritage Sites"]
+  },
+  {
+    "id": "gujarat",
+    "title": "Gujarat",
+    "description": "Explore the vibrant state with white desert, ancient stepwells, and rich cultural heritage. Experience the colors and flavors of Gujarat.",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/eb/b8/4d/lake-view.jpg?w=700&h=-1&s=1",
+    "location": "Gujarat, India",
+    "highlights": ["Rann of Kutch", "Stepwells", "Wildlife", "Heritage"]
+  }
+]
